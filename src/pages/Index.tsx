@@ -122,7 +122,7 @@ const Index = () => {
               Мы идём, когда кто-то решает наши проблемы, а активно добиваемся своих целей
             </p>
             <div className="flex gap-4">
-              <Button size="lg" className="bg-white text-primary hover:bg-white/90">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary bg-white/10">
                 Присоединиться
               </Button>
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary bg-white/10">
