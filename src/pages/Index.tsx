@@ -8,7 +8,7 @@ const Index = () => {
 
   const slides = [
     {
-      image: "https://cdn.poehali.dev/projects/aace6671-557a-4042-abf8-ba0d79264639/files/887c12c7-eb3f-4d4d-9c51-e3a3ce228209.jpg",
+      image: "https://cdn.poehali.dev/files/515e0dff-198a-407e-b4d0-a647174c271f.png",
       alt: "Мероприятие общества"
     },
     {
