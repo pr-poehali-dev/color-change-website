@@ -116,10 +116,9 @@ const Index = () => {
 
         <div className="relative container mx-auto px-4 h-full flex items-center">
           <div className="max-w-2xl text-white">
-            <h2 className="md:text-6xl font-bold mb-6 animate-fade-in text-4xl">Ханты-Мансийская общественная
-региональная организация
-Общероссийской общественной организации
-«Всероссийское общество инвалидов»</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-6 animate-fade-in leading-tight">
+              Ханты-Мансийская общественная региональная организация Общероссийской общественной организации «Всероссийское общество инвалидов»
+            </h2>
             <p className="text-xl md:text-2xl mb-8 opacity-95">
               Мы идём, когда кто-то решает наши проблемы, а активно добиваемся своих целей
             </p>
