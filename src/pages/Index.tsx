@@ -119,9 +119,7 @@ const Index = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-6 animate-fade-in leading-tight">
               Ханты-Мансийская общественная региональная организация Общероссийской общественной организации «Всероссийское общество инвалидов»
             </h2>
-            <p className="text-xl md:text-2xl mb-8 opacity-95">
-              Мы идём, когда кто-то решает наши проблемы, а активно добиваемся своих целей
-            </p>
+            <p className="text-xl md:text-2xl mb-8 opacity-95">Вместе мы сможем больше</p>
             <div className="flex gap-4">
               <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary bg-white/10">
                 Присоединиться
