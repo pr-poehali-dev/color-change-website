@@ -183,7 +183,7 @@ const Index = () => {
                 className="border-2 hover:border-primary transition-all duration-300 hover:shadow-lg hover:-translate-y-1"
               >
                 <CardContent className="pt-8 pb-8 text-center">
-                  <div className="w-16 h-16 mx-auto mb-6 bg-gradient-to-br from-primary to-secondary rounded-full flex items-center justify-center">
+                  <div className="w-16 h-16 mx-auto mb-6 bg-blue-500 rounded-full flex items-center justify-center">
                     <Icon name={value.icon} size={32} className="text-white" />
                   </div>
                   <h3 className="text-2xl font-bold mb-4 text-foreground">
