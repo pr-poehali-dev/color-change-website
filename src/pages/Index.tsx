@@ -125,7 +125,7 @@ const Index = () => {
               <Button size="lg" className="bg-white text-primary hover:bg-white/90">
                 Присоединиться
               </Button>
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/10">
+              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary bg-white/10">
                 Узнать больше
               </Button>
             </div>
